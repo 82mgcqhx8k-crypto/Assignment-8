@@ -19,4 +19,6 @@ it shows that different detection methods tend to discover planets with distinct
 # Purpose
   The purpose of this project is to analyze and visualize exercise and dietary data collected from individuals to uncover patterns and insights related to pulse rates during different activities and diets. To facilitate this analysis,I included attributes such as the dataset itself, which stores the exercise data and the built in dataset, and methods for generating various plots, including heatmaps, categorical plots,and other plots.
 Each attribute is intended to store specific components of the data, while methods enable easy creation of aesthetically pleasing, informative visualizations. Limitations of this implementation include the assumption that the dataset is correctly formatted and contains no missing values. 
+Also, what comparisons you want to make with what values you want to use to compare, it was diffcuit integrate the types of variable to together
+to notice a trend or pattern.
 Future enhancements could include adding data validation, handling missing data, and incorporating more interactive visualizations to deepen analysis.
